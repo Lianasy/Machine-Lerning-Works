@@ -1,4 +1,5 @@
-#Machine Learning Projects
+# Machine Learning Projects
+
 This repository contains a collection of applied Machine Learning projects developed as part of a Computer Science programme. Each notebook demonstrates a practical implementation of core ML concepts, focusing on model design, evaluation, and interpretation.
 
 Projects
